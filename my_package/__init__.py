@@ -1,1 +1,1 @@
-from .my_class import MyClass
+from .my_package import MyClass
