@@ -2,4 +2,4 @@
 --index-url https://pypi.python.org/simple/
 
 # Needed packages/versions
-nltk
+# pandas
