@@ -5,5 +5,5 @@ setup(name='sample_python_project',
       description='An example package for Python.',
       author='Umut Yalcinkaya',
       author_email='yalcinkayaumut@outlook.com',
-      packages=['my_package', 'Tokenizer'],
+      packages=['my_package'],
       install_requires=['nltk'])
