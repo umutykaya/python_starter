@@ -1,6 +1,6 @@
 # Sample Python Project
 
-## Getting Started
+## Table of Content
 ```bash
 ├── README.md
 ├── my_package
